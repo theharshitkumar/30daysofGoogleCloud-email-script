@@ -165,6 +165,6 @@ if __name__ == '__main__':
     threads = 10 #increase workers if you need more multi threading on your own risk
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
         executor.map(email, data)
-    print(id," students completed atleast 1 track")
+    #print(id," students completed atleast 1 track")
     t1 = time.time()
     print(f"{t1-t0} seconds to send {len(data)} emails.")
