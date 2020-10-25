@@ -9,7 +9,7 @@ Also update the templates with your group links
 and always try on a demo dataset first.
 Everything else is same as the first script
 
-You can search "*inset-group-link-here*" and replace it with your group link in the all 5 html templates. (search without quotes)
+You can search "*inset-group-link-here*" and replace it with your group link in the all 5 html templates. (search without quotes duh )
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 First download the progress report (csv file) sent to you
